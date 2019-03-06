@@ -1,7 +1,7 @@
 package noobchain;
-import java.security.MessageDigest;
-
 import com.google.gson.GsonBuilder;
+
+import java.security.MessageDigest;
 
 public class StringUtil {
 	
